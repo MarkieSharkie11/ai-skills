@@ -8,9 +8,9 @@ Ongoing tasks for keeping the skill library organized, well-documented, and easy
 
 Complete the scaffold that's already been built.
 
-- [ ] **Create pack READMEs** — Add `README.md` to `career/`, `design/`, `portfolio/`, and `content/` packs
-- [ ] **Create `content/` pack folder on GitHub** — Currently referenced in skills but doesn't exist as a folder yet
-- [ ] **Backfill CHANGELOG with existing skills** — Run `library-maintenance` to log all skills already in the library as initial entries
+- [x] **Create pack READMEs** — Add `README.md` to `career/`, `design/`, `portfolio/`, and `content/` packs
+- [x] **Create `content/` pack folder on GitHub** — Already existed with `generate-threads-content` skill
+- [x] **Backfill CHANGELOG with existing skills** — Logged all 10 existing skills as initial `added` entries
 
 ---
 
