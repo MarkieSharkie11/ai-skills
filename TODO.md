@@ -18,9 +18,9 @@ Complete the scaffold that's already been built.
 
 Improves usability as you start adding more skills.
 
-- [ ] **Add descriptions to design skills in `claude-md-builder`** — The skill library table lists design skill names but Claude needs to know what each one does to make good recommendations
+- [x] **Add descriptions to design skills in `claude-md-builder`** — Added descriptions for all 10 skills and fixed inaccurate entries in the skill library table
 - [ ] **Define a skill attribution convention** — A consistent way to note inside each `SKILL.md` whether it's original, collected, or remixed — and credit the source
-- [ ] **Add a skills wishlist to the root README** — A running list of skills you want to build but haven't yet, keeps gaps visible without cluttering the library
+- [x] **Add a skills wishlist** — Added to TODO.md (see below)
 
 ---
 
@@ -31,6 +31,17 @@ Becomes relevant as the library grows.
 - [ ] **Build out `content/` pack skills** — Start with Threads posts, then LinkedIn writing
 - [ ] **Add `CLAUDE.md` templates per pack** — Pre-written `CLAUDE.md` files for each use case so you can activate a pack with one file copy
 - [ ] **Review and improve skill descriptions for triggering accuracy** — As you use skills, refine their description frontmatter so they trigger reliably
+
+---
+
+## Skills Wishlist
+
+Skills to build but haven't yet. Keeps gaps visible without cluttering the library.
+
+- [ ] **LinkedIn writing** (`content/`) — Write and refine LinkedIn posts with a professional but human voice
+- [ ] **Performance review prep** (`career/`) — Generate self-review drafts, talking points, and impact narratives for performance cycles
+- [ ] **Resume tailoring** (`career/`) — Adapt a base resume to a specific job description, highlighting relevant experience
+- [ ] **Slide deck creation** (`design/`) — Build presentation decks with structure, content, and visual styling
 
 ---
 

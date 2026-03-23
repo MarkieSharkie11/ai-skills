@@ -6,6 +6,7 @@ Format: `[Date] | [Pack] | [Skill] | [Action] | [Note]`
 
 ---
 
+[2026-03-23] | _meta | claude-md-builder | updated | Added descriptions for all skills in the skill library table and fixed inaccurate entries
 [2025-03-23] | _meta | claude-md-builder | added | Meta-skill for generating CLAUDE.md files from the skill library
 [2025-03-23] | _meta | library-maintenance | added | Meta-skill for validating and maintaining the skill library
 [2025-03-23] | career | interview-prep | added | Interview prep generator for recruiter and hiring manager screens

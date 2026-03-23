@@ -11,12 +11,16 @@ Generates a tailored CLAUDE.md file for a new project based on the user's descri
 
 The library lives at `~/ai-projects/_skills/` and is organized into these packs:
 
-| Pack | Skills |
-|------|--------|
-| `career/` | interview, performance |
-| `design/` | brand-guidelines, canvas-design, frontend-design, implement-design, theme-factory |
-| `portfolio/` | case-study-creation |
-| `content/` | *(pack exists, skills to be added)* |
+| Pack | Skill | Description |
+|------|-------|-------------|
+| `career/` | interview-prep | Generates interview prep for recruiter and hiring manager screens — company snapshots, questions to ask, and tailored talking points |
+| `content/` | generate-threads-content | Generates, brainstorms, edits, and refines Threads posts |
+| `design/` | brand-guidelines | Applies Anthropic's official brand colors and typography to any artifact |
+| `design/` | canvas-design | Creates visual art and design compositions as .png and .pdf files using design philosophy |
+| `design/` | frontend-design | Creates distinctive, production-grade frontend interfaces with high design quality |
+| `design/` | implement-design | Translates Figma designs into production-ready code with 1:1 visual fidelity (requires Figma MCP) |
+| `design/` | theme-factory | Applies one of 10 pre-set color/font themes to any artifact, or generates a new theme on-the-fly |
+| `portfolio/` | case-study-creation | Collaborative partner for planning, strategizing, and scaffolding design portfolio case studies |
 
 ## Workflow
 
