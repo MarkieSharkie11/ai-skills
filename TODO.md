@@ -42,6 +42,7 @@ Skills to build but haven't yet. Keeps gaps visible without cluttering the libra
 - [ ] **Performance review prep** (`career/`) — Generate self-review drafts, talking points, and impact narratives for performance cycles
 - [ ] **Resume tailoring** (`career/`) — Adapt a base resume to a specific job description, highlighting relevant experience
 - [ ] **Slide deck creation** (`design/`) — Build presentation decks with structure, content, and visual styling
+- [ ] **Rivian editorial writing** (`content/`) — Help ideate, outline, and write Rivian-focused editorial pieces. Should guide topic selection from angles I can uniquely contribute to (design, community, business), help formulate structure and narrative, and write in my own voice/tone. Similar approach to the Threads skill but targeted at longer-form Rivian content
 
 ---
 
