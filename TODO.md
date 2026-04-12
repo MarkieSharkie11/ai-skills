@@ -43,6 +43,7 @@ Skills to build but haven't yet. Keeps gaps visible without cluttering the libra
 - [ ] **Resume tailoring** (`career/`) — Adapt a base resume to a specific job description, highlighting relevant experience
 - [ ] **Slide deck creation** (`design/`) — Build presentation decks with structure, content, and visual styling
 - [ ] **Rivian editorial writing** (`content/`) — Help ideate, outline, and write Rivian-focused editorial pieces. Should guide topic selection from angles I can uniquely contribute to (design, community, business), help formulate structure and narrative, and write in my own voice/tone. Similar approach to the Threads skill but targeted at longer-form Rivian content
+- [ ] **Portfolio foundations → skills** (`portfolio/`) — Extract reusable skills from portfolio foundations work. As portfolio foundations mature, identify repeatable processes (e.g. narrative framing, project storytelling, impact articulation) and formalize them as skills in this library
 
 ---
 
